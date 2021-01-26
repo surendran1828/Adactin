@@ -49,5 +49,10 @@ public class TestNg extends Base {
 		WebElement j = driver.findElement(By.xpath("//input[@name='order_no']"));
 	    System.out.println("your booking id is "+j.getAttribute("value")); 
 	}
+	@Test
+	private void test5() {
+		System.out.println("done");
+		System.out.println("done");
+	}
 	
 }
