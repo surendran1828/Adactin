@@ -51,7 +51,10 @@ public class TestNg extends Base {
 	}
 	@Test
 	private void test5() {
+		System.out.println("done");
+		System.out.println("done");
 		System.out.println("Thank you");
+
 	}
 	
 }
